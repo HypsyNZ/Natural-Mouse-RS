@@ -8,7 +8,7 @@
   <artifactId>naturalmouse</artifactId>
   <version>2.0.9</version>
   <name>Natural Mouse Motion</name>
-  <url>https://github.com/Hermetism/NaturalMouseMotion</url>
+  <url>https://github.com/HypsyNZ/Natural-Mouse-RS.git</url>
   <description>This library provides a way to move cursor to specified coordinates on screen reliably,
     while being randomly arced to look like real hand moved it there by using a mouse.
   </description>
@@ -28,9 +28,9 @@
   </properties>
 
   <scm>
-    <url>https://github.com/Hermetism/NaturalMouseMotion</url>
-    <connection>scm:git:git@github.com:Hermetism/NaturalMouseMotion.git</connection>
-    <developerConnection>scm:git:git@github.com:Hermetism/NaturalMouseMotion.git</developerConnection>
+    <url>https://github.com/HypsyNZ/Natural-Mouse-RS</url>
+    <connection>scm:git:git@github.com:HypsyNZ/Natural-Mouse-RS.git</connection>
+    <developerConnection>scm:git:git@github.com:HypsyNZ/Natural-Mouse-RS.git</developerConnection>
   </scm>
 
   <dependencies>
